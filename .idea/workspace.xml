@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9221c25-04df-4f2f-beb9-d3f36de39e1c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/vtp/1.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/1.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/10_upper_simplified.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/10_upper_simplified.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/11_upper_simplified.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/11_upper_simplified.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/12_upper_simplified.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/12_upper_simplified.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/13.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/13.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/14.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/14.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/15.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/15.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/16.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/16.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/19.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/19.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/2.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/2.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/20_upper_simplified.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/20_upper_simplified.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/21_upper_simplified.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/21_upper_simplified.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/22_upper_simplified.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/22_upper_simplified.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/23_upper_simplified.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/23_upper_simplified.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/3.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/3.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/4.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/4.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/4_2.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/4_2.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/6.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/6.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/8.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/8.vtp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtp/9_upper_simplified.vtp" beforeDir="false" afterPath="$PROJECT_DIR$/vtp/9_upper_simplified.vtp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TWPVuEr16Af0bNO9CzHjogLzMi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9221c25-04df-4f2f-beb9-d3f36de39e1c" name="Changes" comment="" />
+      <created>1691155892474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691155892474</updated>
+      <workItem from="1691155899175" duration="8000" />
+    </task>
+    <servers />
+  </component>
+</project>
